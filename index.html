@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Link Saved to a Local File</title>
+	<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+	<link rel="stylesheet" href="css/style.css">
+	<style type="text/css">
+	
+	</style>
+
+</head>
+<body>
+	<h1>Link Saved to a Local File</h1>
+<header>
+	<input type="file" id="files" name="files[]" multiple />
+	<button onclick="saveTextAsFile()">Save Text to File</button>
+	<p>Href <b id='href'>HELLO</b> </p>
+	<p>Tile <b id='title'>HELLO</b> </p>
+</header>	
+	<script type="text/javascript">
+		var receivedStringArray = (window.location.hash).split("#");
+		console.log("[AniB]: " +receivedStringArray[2]);
+		document.getElementById('href').innerHTML =  receivedStringArray[1];
+		document.getElementById('title').innerHTML =  receivedStringArray[2];
+		
+	</script>
+	<script type="text/javascript" src="src/loadFile.js"></script>
+</body>
+</html>
