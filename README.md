@@ -74,4 +74,4 @@ So these two were the major hurdle in my creation of custom bookmark manager. If
 * [Loading, Editing, and Saving a Text File in HTML5 Using Javascript](http://thiscouldbebetter.wordpress.com/2012/12/18/loading-editing-and-saving-a-text-file-in-html5-using-javascrip/)
 * [Create Bookmarklet - The Right Way](http://code.tutsplus.com/tutorials/create-bookmarklets-the-right-way--net-18154)
 * [GitHub Code for the Local WebPage](https://github.com/archerImagine/linksSavedtoLocalFile)
-* [GitHub Gist for the BookMarklet](link)
+* [GitHub Gist for the BookMarklet](https://gist.github.com/archerImagine/d4837c61ad903c614047)
