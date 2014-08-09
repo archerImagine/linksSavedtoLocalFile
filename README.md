@@ -75,3 +75,4 @@ So these two were the major hurdle in my creation of custom bookmark manager. If
 * [Create Bookmarklet - The Right Way](http://code.tutsplus.com/tutorials/create-bookmarklets-the-right-way--net-18154)
 * [GitHub Code for the Local WebPage](https://github.com/archerImagine/linksSavedtoLocalFile)
 * [GitHub Gist for the BookMarklet](https://gist.github.com/archerImagine/d4837c61ad903c614047)
+* [MYBlog for the Complete Journery](https://archerimagine.wordpress.com/2014/08/09/how-to-write-a-url-into-a-file-using-just-javascript/)
